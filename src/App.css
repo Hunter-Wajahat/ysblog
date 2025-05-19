@@ -1,0 +1,21 @@
+.cards{
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+}
+
+.about-section {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+nav{
+  top: 0px;
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+}
